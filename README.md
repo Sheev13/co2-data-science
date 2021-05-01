@@ -1,6 +1,6 @@
 # Carbon Dioxide Levels Data Science
 
-Independent extension of the IB Data Science coursework referenced in my CV. There were three notebooks prior to this which were more about filling in gaps or plotting already processed data. Everything in this notebook is entirely my own work (including the bullet point objective lists).
+Independent extension of the IB Data Science coursework referenced in my CV. There were three notebooks prior to this which were more about filling in gaps or plotting already processed data. Everything in this notebook is completely my own work (including the bullet point objective lists), and was completed of my own volition.
 
 I was keen to have a go at fitting a model to a set of "training data" and then testing the goodness of fit on new data. This was done by purposefully choosing only the first 70-80% of a dataset on which to train the model, and then using the remaining data to test. The data used is atmospheric carbon dioxide concentration levels time series data.
 
